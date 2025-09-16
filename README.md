@@ -1,16 +1,47 @@
-# Metro_Flutter_Project
+# Cairo Metro App 🚇
 
-A new Flutter project.
+A Flutter-based mobile application that helps users navigate the Cairo Metro system with ease.  
+The app provides a simple and intuitive interface to find stations, routes, and connections, helping people avoid getting lost while traveling.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 📍 **Station Search** – Find any metro station quickly.
+- 🔀 **Route Finder** – Get the shortest path between two stations.
+- 🔄 **Interchange Detection** – Easily identify stations where you can switch lines.
+- 🗺️ **Interactive Map** – View Cairo Metro lines and station details.
+- 🎨 **Clean UI/UX** – Built with Flutter for a smooth cross-platform experience.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies
+- **Flutter (Dart)** – Cross-platform mobile development  
+- **State Management** – (e.g., Provider / Riverpod / GetX – adjust based on what you used)  
+- **Material Design** – For intuitive and consistent UI  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+(Add screenshots or GIFs of your app here – e.g., home screen, route results, map view)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Install [Flutter](https://flutter.dev/docs/get-started/install)  
+- Android Studio / VS Code with Flutter extension  
+
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/cairo-metro-app.git
+
+# Navigate to project directory
+cd cairo-metro-app
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
